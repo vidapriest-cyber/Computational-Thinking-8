@@ -1,0 +1,7 @@
+print("My name is Vida")
+print("I have been to seven country's.")
+print("I can speek french.")
+print("I listen to true crime podcasts.")
+print("Now i want to learn about you.")
+their_name = input ("What's your name?")
+print(f"Hi {their_name}, nice to meet you.")
