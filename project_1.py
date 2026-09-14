@@ -1,0 +1,6 @@
+print("Hi today we will be making a madlib. I will ask you questions and you will answer.")
+name = input("What your name or a name you like/ somthing your okay with being called.")
+print(f"Hi {name} nice to meet you")
+animal = input("please pick a animal.")
+item = input("please pick a item.")
+activity = input ("please pick and activity and make it funny")
