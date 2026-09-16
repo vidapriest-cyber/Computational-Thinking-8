@@ -1,5 +1,5 @@
 print("Hi today we will be making a madlib. I will ask you questions and you will answer.")
-name = input("Whats you name you like.")
+name = input("Whats a name you like.")
 print(f"Hi {name} nice to meet you")
 animal = input("please pick a animal.")
 item = input("please pick a item.")
