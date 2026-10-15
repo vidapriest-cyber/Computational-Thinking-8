@@ -11,7 +11,11 @@ elif answer == "Yes" or answer == "yes":
     elif answer1 == "cozy_dining":
         cozy_dining = input("You eat somthing and it was the best food of your life.")
     elif answer1 == "mall":
-        mall = input ("You go to hot topic")
+        print ("You go to hot topic")
+        what_to_buy = input ("What would you like to buy")
+        if what_to_buy == "action figures":
+            print("good chose you live")
+        elif print:("Hey creator here and I would recomend action figures but thats just my personal opinon you dont have to listen to me anyways you did not survive try again:)")
     elif answer1 == "forest":
         forest = input ("Become an vampire ")
     elif answer1 == "cat_cafe":
