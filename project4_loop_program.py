@@ -8,5 +8,5 @@ for i in range (10):
     if hidden_number < number_guess:
         input ("too high try again by pressing enter")
     if hidden_number == number_guess:
-        print ("You won have a great day.")
+        print ("You won have a great day and if I dont see you good evening, good night,and good morning.")
 
