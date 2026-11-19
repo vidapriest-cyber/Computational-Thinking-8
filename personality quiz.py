@@ -101,3 +101,4 @@ if Spring_points > Winter_points and Spring_points > Summer_points and Spring_po
     print("You are a Spring person!")
 if Summer_points > Spring_points and Summer_points > Autum_points and Summer_points > Winter_points:
      print("You are a Summer person.")
+print(f"Your score is {Winter_points} winter points, {Summer_points} summer points, {Spring_points} spring points, and {Autum_points} autum or fall points!")
