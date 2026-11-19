@@ -73,7 +73,7 @@ if answer1 == "C"or  answer1 =="c":
 if answer1=="D"or  answer1 =="d":
         Spring_points+= 5
 
-        answer1= input("What is your fav Twilight character, A Bella Swan ,B Alice Cullen ,C Jacob Black, D Edward Cullen")
+answer1= input("What is your fav Twilight character, A Bella Swan ,B Alice Cullen ,C Jacob Black, D Edward Cullen")
 if answer1=="A"or  answer1 =="a":
         Autum_points+= 1
 if answer1 == "B"or  answer1 =="b":
