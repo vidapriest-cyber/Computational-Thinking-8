@@ -33,24 +33,55 @@ if answer3 == "C"or"c":
 if answer3 == "D"or"d":
     Winter_points += 1
 
-answer4 = input("whats your favorite book out of these 4 ,A twilight,B Percy Jackson ,C any fantasy novel ,D Harry Potter but the author is terible i know.")
+answer4 = input("whats your favorite book out of these 4 ,A twilight,B Percy Jackson ,C Hunger games ,D Harry Potter but the author is terible i know.")
 if answer4 == "A"or"a":
     Autum_points += 1
 if answer4 == "B"or"b":
     Summer_points += 1
-    answer5 = input("what is your fav percy jackson character, A Nico De Angelo,B Percy Jackson,C Annabeth Chase, D Hazel Lavesque")
-    if answer5=="A"or"a":
-        Summer_points+= 10
-    if answer5 == "B"or"b":
-        Summer_points+= 1
-    if answer5 == "C"or"c":
-        Summer_points += 1
-    if answer5=="D"or"d":
-        Summer_points+=5
 if answer4 == "C"or"c":
     Spring_points +=1
 if answer4 == "D"or"d":
     Winter_points +=1
+
+answer7 = input("What is your fav percy jackson character, A Nico De Angelo,B Percy Jackson,C Annabeth Chase, D Hazel Lavesque")
+if answer7=="A"or"a":
+        Summer_points+= 10
+if answer7 == "B"or"b":
+        Summer_points+= 1
+if answer7 == "C"or"c":
+        Summer_points += 1
+if answer7=="D"or"d":
+        Summer_points+=5
+
+answer8 = input("What is your fav Harry Potter character, A Luna lovegood,B Harry Potter,C Draco malfoy, D Snape")
+if answer8=="A"or"a":
+        Winter_points+= 1
+if answer8 == "B"or"b":
+        Winter_points+= 1
+if answer8 == "C"or"c":
+        Winter_points += 1
+if answer8=="D"or"d":
+        Winter_points+=5
+
+answer9 = input("What is your fav Hunger games character, A Katniss ,B Lucy Gray,C Haymitch Abernathy, D Peeta Mellark")
+if answer9=="A"or"a":
+        Spring_points+= 9
+if answer9 == "B"or"b":
+        Spring_points+= 1
+if answer9 == "C"or"c":
+        Spring_points += 1
+if answer9=="D"or"d":
+        Spring_points+= 5
+
+        answer9 = input("What is your fav Twilight character, A Bella Swan ,B Alice Cullen ,C Jacob Black, D Edward Cullen")
+if answer9=="A"or"a":
+        Spring_points+= 1
+if answer9 == "B"or"b":
+        Spring_points+= 1
+if answer9 == "C"or"c":
+        Spring_points += 1
+if answer9=="D"or"d":
+        Spring_points+= 1
 
 answer6 = input("whats your favorite ,A sugar glider,B sea bunny ,C bunny ,D feret.")
 if answer6 == "A"or"a":
