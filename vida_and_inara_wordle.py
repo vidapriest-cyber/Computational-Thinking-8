@@ -1,7 +1,7 @@
 import random
 
 # Pick a word at random
-word_list = ["pizza","great","audio","laugh","trial","arrow","roots","giyuu",]
+word_list = ["pizza","great","audio","laugh","trial","arrow","roots","giyu","tiger", "zebra", "rhino", "horse", "whale", "shark", "eagle", "koala", "lemur", "otter",]
 hidden_word = random.choice(word_list)
 
 
